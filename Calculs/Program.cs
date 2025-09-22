@@ -29,6 +29,7 @@ namespace Calculs
                 choix = Console.ReadLine();
                 // traitement des choix
 
+                //test de refus de modification de code
                 val1 = rand.Next(1, 10);
                 val2 = rand.Next(1, 10);
                 switch (choix)
